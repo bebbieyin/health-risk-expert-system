@@ -7,7 +7,7 @@ If user does not fall into those two categories, they will be prompted to enter 
 printed
 
 ### Output
-![alt text](https://github.com/bebbieyin/health-risk-expert-system/blob/master/output.PNG)
+![alt text](https://github.com/bebbieyin/health-risk-expert-system/blob/main/output.PNG)
 
 ### Running the program
 1. Download and install the CLIPS program from https://sourceforge.net/projects/clipsrules/files/CLIPS/6.31/
